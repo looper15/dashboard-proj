@@ -1,0 +1,15 @@
+#root {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  background-color: whitesmoke !important;
+  min-width: 320px;
+  min-height: 100vh;
+}
